@@ -32,8 +32,8 @@ This project answers the key business question:
 <img  width="70%" alt="Analysis" src="https://github.com/user-attachments/assets/c2311cb5-97b0-4bce-bd81-64120d60af7d" />
 
 
-<br>
-##Includes pivot analysis for:
+
+**Includes pivot analysis for:**
 
 * Top 10 Billionaires (Net Worth & Age)
 * Wealth by Region
@@ -42,7 +42,7 @@ This project answers the key business question:
 * Self-Made vs Inherited Wealth
 * Gender Distribution
 * Overall KPIs (Count, Average Net Worth, Average Age)
-
+---
 ## 🔍 Key Findings
 
 
@@ -52,7 +52,7 @@ This project answers the key business question:
 * **Technology is the top industry** for generating billionaire wealth.
 * **Fashion & Retail and Finance** are also major contributors.
 * Industries that require **large capital and innovation** produce more billionaire wealth.
-* **Most billionaire wealth comes from self-made individuals**, showing the importance of entrepreneurship.
+* **Most billionaire wealth comes from self-made individuals**, confirming entrepreneurship as the primary wealth driver.
 * **Inherited wealth is smaller but still important** in overall wealth distribution.
 * **Male billionaires hold most of the total wealth**, showing a strong gender imbalance.
 * **Female billionaires are much fewer** across regions and industries.
